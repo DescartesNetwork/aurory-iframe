@@ -1,8 +1,10 @@
+import { useEffect } from 'react'
+import { net, useUI } from '@sentre/senhub'
 import EmbededView from '@sentre/embeded-view'
-import { useUI } from '@sentre/senhub'
+
+import MainnetOnly from './mainnetOnly'
 
 import configs from 'configs'
-import { useEffect } from 'react'
 
 const {
   manifest: { appId },
@@ -15,11 +17,12 @@ const View = () => {
     setBackground({ dark: '#000', light: '#000' })
   }, [setBackground])
 
+  if (net !== 'mainnet') return <MainnetOnly />
   return (
     <EmbededView
       appId={appId}
-      src={'https://app.aurory.io/'}
-      title="Please replace the src and title to your original DApp."
+      src={'https://solana.lido.fi/'}
+      title="Liquidity for staked assets."
       wallet={window.sentre.wallet}
     />
   )
