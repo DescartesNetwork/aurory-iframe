@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.e413265e.js",
+    "main.js": "/static/js/main.6d224946.js",
     "aurory.js": "/index.js",
     "static/js/src_bootstrap_tsx.1c99b799.chunk.js": "/static/js/src_bootstrap_tsx.1c99b799.chunk.js",
     "static/js/vendors-node_modules_reduxjs_toolkit_dist_redux-toolkit_esm_js.ba21c1b1.chunk.js": "/static/js/vendors-node_modules_reduxjs_toolkit_dist_redux-toolkit_esm_js.ba21c1b1.chunk.js",
     "static/js/node_modules_react_jsx-runtime_js.105e834c.chunk.js": "/static/js/node_modules_react_jsx-runtime_js.105e834c.chunk.js",
     "static/js/node_modules_react-router-dom_esm_react-router-dom_js-_d6f00.c4ddc005.chunk.js": "/static/js/node_modules_react-router-dom_esm_react-router-dom_js-_d6f00.c4ddc005.chunk.js",
     "static/js/node_modules_react_index_js.8dd536c5.chunk.js": "/static/js/node_modules_react_index_js.8dd536c5.chunk.js",
-    "static/js/src_bootstrap_app_tsx.76bef070.chunk.js": "/static/js/src_bootstrap_app_tsx.76bef070.chunk.js",
+    "static/js/src_bootstrap_app_tsx.44600a23.chunk.js": "/static/js/src_bootstrap_app_tsx.44600a23.chunk.js",
     "static/js/vendors-node_modules_react-dom_index_js.19007376.chunk.js": "/static/js/vendors-node_modules_react-dom_index_js.19007376.chunk.js",
     "static/js/_18f2-_0b7d-_25ed-_8131-_3fc0-_e4dd-_7bec-_ec71-_df0e-_887c-_c738-_9820-_7d1a-_b254-_ed1b-_d1-147343.0e7de8a9.chunk.js": "/static/js/_18f2-_0b7d-_25ed-_8131-_3fc0-_e4dd-_7bec-_ec71-_df0e-_887c-_c738-_9820-_7d1a-_b254-_ed1b-_d1-147343.0e7de8a9.chunk.js",
     "static/js/node_modules_web-vitals_dist_web-vitals_js.c8963658.chunk.js": "/static/js/node_modules_web-vitals_dist_web-vitals_js.c8963658.chunk.js",
@@ -61,14 +61,14 @@
     "static/media/icon-telegram.svg": "/static/media/icon-telegram.2450489f40d03000fe65fc1c6f238d85.svg",
     "static/media/README.md": "/static/media/README.d779983cfec3f9c0e33b.md",
     "static.app.tsx": "/aurory-asset-senhub.json",
-    "main.e413265e.js.map": "/static/js/main.e413265e.js.map",
+    "main.6d224946.js.map": "/static/js/main.6d224946.js.map",
     "index.js.map": "/index.js.map",
     "src_bootstrap_tsx.1c99b799.chunk.js.map": "/static/js/src_bootstrap_tsx.1c99b799.chunk.js.map",
     "vendors-node_modules_reduxjs_toolkit_dist_redux-toolkit_esm_js.ba21c1b1.chunk.js.map": "/static/js/vendors-node_modules_reduxjs_toolkit_dist_redux-toolkit_esm_js.ba21c1b1.chunk.js.map",
     "node_modules_react_jsx-runtime_js.105e834c.chunk.js.map": "/static/js/node_modules_react_jsx-runtime_js.105e834c.chunk.js.map",
     "node_modules_react-router-dom_esm_react-router-dom_js-_d6f00.c4ddc005.chunk.js.map": "/static/js/node_modules_react-router-dom_esm_react-router-dom_js-_d6f00.c4ddc005.chunk.js.map",
     "node_modules_react_index_js.8dd536c5.chunk.js.map": "/static/js/node_modules_react_index_js.8dd536c5.chunk.js.map",
-    "src_bootstrap_app_tsx.76bef070.chunk.js.map": "/static/js/src_bootstrap_app_tsx.76bef070.chunk.js.map",
+    "src_bootstrap_app_tsx.44600a23.chunk.js.map": "/static/js/src_bootstrap_app_tsx.44600a23.chunk.js.map",
     "vendors-node_modules_react-dom_index_js.19007376.chunk.js.map": "/static/js/vendors-node_modules_react-dom_index_js.19007376.chunk.js.map",
     "node_modules_web-vitals_dist_web-vitals_js.c8963658.chunk.js.map": "/static/js/node_modules_web-vitals_dist_web-vitals_js.c8963658.chunk.js.map",
     "node_modules_react-router-dom_esm_react-router-dom_js-_d6f01.261cbe99.chunk.js.map": "/static/js/node_modules_react-router-dom_esm_react-router-dom_js-_d6f01.261cbe99.chunk.js.map",
@@ -80,6 +80,6 @@
     "vendors-node_modules_react-redux_es_index_js.691737ce.chunk.js.map": "/static/js/vendors-node_modules_react-redux_es_index_js.691737ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.e413265e.js"
+    "static/js/main.6d224946.js"
   ]
 }
