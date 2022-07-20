@@ -21,7 +21,7 @@ const View = () => {
   return (
     <EmbededView
       appId={appId}
-      src={'https://solana.lido.fi/'}
+      src={'https://app.aurory.io'}
       title="Liquidity for staked assets."
       wallet={window.sentre.wallet}
     />
