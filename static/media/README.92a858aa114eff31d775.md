@@ -1,0 +1,1 @@
+AURORY is a free-to-play, tactical, turn-based JRPG built on the Solana blockchain. Players are invited to explore a rich and diverse universe where they will travel across the worlds of Antik and Tokané as they complete quests, discover lost relics, defeat enemies, and compete against other players using creatures called “Nefties".
