@@ -1,4 +1,1 @@
-Welcome to Aurory!
-The powers of Antik have discovered the existence of Tokané and have created a portal to pass between worlds.
-Denizens of Antik are filtering into Tokané, fleeing their masters, corrupting the Nefties and greedily staking their claims.
-And their masters are not far behind...
+AURORY is a free-to-play, tactical, turn-based JRPG built on the Solana blockchain. Players are invited to explore a rich and diverse universe where they will travel across the worlds of Antik and Tokané as they complete quests, discover lost relics, defeat enemies, and compete against other players using creatures called “Nefties".

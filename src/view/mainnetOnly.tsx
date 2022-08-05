@@ -2,13 +2,14 @@ import { Col, Row, Space, Typography } from 'antd'
 
 const MainnetOnly = () => {
   return (
-    <Row>
+    <Row gutter={[24, 24]}>
+      <Col span={24} style={{ height: 32 }} />
       <Col span={24} style={{ textAlign: 'center' }}>
         <Space direction="vertical">
-          <Typography.Title level={2} style={{ color: '#273852' }}>
+          <Typography.Title level={2}>
             ⚠️ Only supported on Solana mainnet.
           </Typography.Title>
-          <Typography.Text style={{ color: '#273852' }}>
+          <Typography.Text>
             You can open the Control Center, switch to mainnet and experience
             the application.
           </Typography.Text>
