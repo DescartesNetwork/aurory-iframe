@@ -6,10 +6,10 @@ const MainnetOnly = () => {
       <Col span={24} style={{ height: 32 }} />
       <Col span={24} style={{ textAlign: 'center' }}>
         <Space direction="vertical">
-          <Typography.Title level={2}>
+          <Typography.Title level={2} style={{ color: '#fafafa' }}>
             ⚠️ Only supported on Solana mainnet.
           </Typography.Title>
-          <Typography.Text>
+          <Typography.Text style={{ color: '#fafafa' }}>
             You can open the Control Center, switch to mainnet and experience
             the application.
           </Typography.Text>
