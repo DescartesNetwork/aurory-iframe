@@ -1,5 +1,4 @@
-import { useEffect } from 'react'
-import { net, useSetBackground } from '@sentre/senhub'
+import { net } from '@sentre/senhub'
 
 import EmbededView from '@sentre/embeded-view'
 import MainnetOnly from './mainnetOnly'
@@ -11,19 +10,13 @@ const {
 } = configs
 
 const View = () => {
-  const setBackground = useSetBackground()
-
-  useEffect(() => {
-    setBackground({ dark: '#000000', light: '#000000' })
-  }, [setBackground])
-
   if (net !== 'mainnet') return <MainnetOnly />
   return (
     <EmbededView
       appId={appId}
       src={'https://app.aurory.io'}
       title="A free-to-play, tactical, turn-based JRPG built on the Solana blockchain."
-      wallet={window.sentre.wallet}
+      wallet={window.sentre.solana}
     />
   )
 }
